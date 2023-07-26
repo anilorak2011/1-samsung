@@ -28,13 +28,13 @@ td img{
 }
 main tr, main td{
     border:10 px solid darkblue;
-}
-main table, h2{
+} 
+the main table, h2{
     display: flex;
     justify-content: center;
 }
 footer table{
-    background-color: lightgrey;
+    background color: light grey;
     border:5 px solid gray ;
     border-radius: 10 px;
 }
